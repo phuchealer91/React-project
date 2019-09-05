@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone J++",
+        "price": 100000000
+    },
+    {
+        "id": 2,
+        "name": "Iphone XS++",
+        "price": 100000
+    },
+    {
+        "id": 3,
+        "name": "Iphone 6+",
+        "price": 29999999
+    },
+    {
+        "id": 4,
+        "name": "Iphone 7++",
+        "price": 3643534599
+    },
+    {
+        "id": 5,
+        "name": "Iphone 7 plus",
+        "price": 32343434
+    },
+    {
+        "id": 6,
+        "name": "Iphone XS 9",
+        "price": 566777777
+    },
+    {
+        "id": 7,
+        "name": "Iphone XS 8",
+        "price": 432423423
+    },
+    {
+        "id": 8,
+        "name": "Iphone note 9",
+        "price": 4324234234
+    },
+    {
+        "id": 9,
+        "name": "Iphone XXXXXXS",
+        "price": 9999999999
+    }
+]

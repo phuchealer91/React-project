@@ -1,0 +1,31 @@
+.navbar{
+    padding: 0 1rem;
+}
+.navs{
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+
+}
+.nav-item{
+    height: 3rem;
+    line-height: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+.nav-item a{
+    text-align: center;
+    font-size: 1.1rem;
+    padding: .8rem 1.4rem;
+    text-decoration: none;
+    color: white;
+}
+.active{
+    background: rgb(25, 28, 32);
+
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 0;
+}
